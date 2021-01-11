@@ -15,11 +15,11 @@
   <div id="teste" class="d-flex justify-content-center">
    
    <center><h1>NativeUI (NAV) | Money Wash</h1></center>
-   <center><img  src="github-assets/nativeUI-image.png"></img></center>
-   <center><img  src="github-assets/nativeUI-image.png"></img></center>
-   <center><img  src="github-assets/nativeUI-image.png"></img></center>
-   <center><img  src="github-assets/nativeUI-image.png"></img></center>
-   <center><img  src="github-assets/nativeUI-image.png"></img></center>
+   <center><img  src="github-assets/image-25wash.png"></img></center>
+   <center><img  src="github-assets/image-50wash.png"></img></center>
+   <center><img  src="github-assets/image-100wash.png"></img></center>
+   <center><img  src="github-assets/image-500wash.png"></img></center>
+   <center><img  src="github-assets/image-1000wash.png"></img></center>
     
   </div>
   
