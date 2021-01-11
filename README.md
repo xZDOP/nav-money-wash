@@ -15,7 +15,7 @@
   <div id="teste" class="d-flex justify-content-center">
    
    <center><h1>Proffy</h1></center>
-   <center><img  src="src/assets/images/landing.svg"></img></center>
+   <center><img  src="github-assets/nativeUI-image.png"></img></center>
     
   </div>
 
