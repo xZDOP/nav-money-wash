@@ -21,7 +21,7 @@
    <center><img  src="github-assets/image-500wash.png"></img></center>
    <center><img  src="github-assets/image-1000wash.png"></img></center>
    
-   <h1>=======================================</h1>
+   <h1>==========================</h1>
    
    [![Watch the video](https://m.iphoto.net/l1fQ3.png)](https://www.youtube.com/watch?v=k50gWAs_ZVI)
     
